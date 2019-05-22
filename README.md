@@ -1,1 +1,1 @@
-# coaches-hangout
+# Coaches Hangout Notes
